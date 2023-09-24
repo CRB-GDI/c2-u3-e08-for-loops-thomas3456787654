@@ -1,4 +1,4 @@
-# Assignment name
+# Exercise 8 For Loops
 ##Getting Started
 - [ ] Accept the assignment and create your repository for submitting your work
 - [ ] In GitHub Desktop, clone the repository to your desktop.
