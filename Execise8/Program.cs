@@ -16,8 +16,15 @@
                 }
 
             }
-            //print asteisks
-            
+
+            //asterisk
+            Console.WriteLine("How many of asterisk? ");
+            int astNum = Int32.Parse(Console.ReadLine());
+
+            for (int a = 0; a < astNum; a++)
+            {
+                Console.Write("*");
+            }
 
             //Console.WriteLine(number);
         }
